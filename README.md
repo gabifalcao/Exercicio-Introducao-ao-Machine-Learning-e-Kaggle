@@ -1,6 +1,6 @@
 #– Atividade prática individual - resposta
 
-*Base de dados escolhida:*
+_*Base de dados escolhida:*_
 Average Daily Screen Time for Children que é uma base de dados do tempo de tela de crianças entre 5 a 15 anos e que é separado por gênero e o dia da semana. Pode ser usada para mostrar os hábitos das crianças dessa idade mostrando as categorias de aplicativos mais usadas por elas, como por exemplo aplicativos educacionais, entretenimento e etc.
 
 
