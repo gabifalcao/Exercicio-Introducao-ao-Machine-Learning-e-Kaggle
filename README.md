@@ -1,4 +1,4 @@
-##– Atividade prática individual - resposta
+## Atividade prática individual - resposta
 
 
 ☆*Base de dados escolhida:*
